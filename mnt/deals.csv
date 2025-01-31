@@ -1,0 +1,12 @@
+deal_id,customer_id,deal_stage,proposed_terms,negotiation_notes,deal_value,closing_date
+1,1,Interest,10% discount,Awaiting confirmation,5000,2025-01-15
+2,2,Proposal,Extended warranty,Customer wants flexibility,12000,2025-01-20
+3,3,Negotiation,Free shipping,Discussing shipping costs,8000,2025-01-25
+4,4,Closed-Won,Custom feature,Terms accepted,15000,2025-01-30
+5,5,Interest,Return policy,Considering competitors,4000,2025-02-01
+6,6,Proposal,Premium access,Upselling premium features,20000,2025-02-05
+7,7,Closed-Lost,Flexible billing,Customer not interested,10000,2025-02-10
+8,8,Negotiation,Discounted pricing,Price concern unresolved,6000,2025-02-15
+9,9,Interest,Loyalty perks,Exploring options,3000,2025-02-20
+10,10,Closed-Won,Early delivery,Satisfied with terms,25000,2025-02-25
+11,1,Lost,"Mark the deal as lost., Analyze the reasons for disinterest (potentially gathered from previous interactions not included in this conversation)., If future contact is initiated by the user, revisit their specific needs and concerns.","User explicitly stated they don't need the product. Offered trial and discount, but user declined. Follow-up offered but unlikely to convert.",5000,2025-01-31

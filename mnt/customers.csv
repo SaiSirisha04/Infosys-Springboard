@@ -1,0 +1,11 @@
+customer_id,name,email,phone,address,company,customer_segment,lead_status,last_interaction_date,notes
+1,Alice,alice@example.com,1234567890,Address 1,Company A,SMB,Lead,2025-01-10,Follow-up needed
+2,Bob,bob@example.com,2345678901,Address 2,Company B,Enterprise,Customer,2025-01-09,Interested in premium package
+3,Charlie,charlie@example.com,3456789012,Address 3,Company C,Individual,Lead,2025-01-08,Price concern
+4,Diana,diana@example.com,4567890123,Address 4,Company D,Individual,Lead,2025-01-07,Request for demo
+5,Edward,edward@example.com,5678901234,Address 5,Company E,SMB,Customer,2025-01-06,Satisfied customer
+6,Fiona,fiona@example.com,6789012345,Address 6,Company F,Enterprise,Lead,2025-01-05,Awaiting feedback
+7,George,george@example.com,7890123456,Address 7,Company G,SMB,Customer,2025-01-04,Wants customization
+8,Helen,helen@example.com,8901234567,Address 8,Company H,Individual,Lead,2025-01-03,Not responsive
+9,Ian,ian@example.com,9012345678,Address 9,Company I,Enterprise,Lead,2025-01-02,Considering competitor
+10,Julia,julia@example.com,0123456789,Address 10,Company J,Individual,Customer,2025-01-01,Ready to upgrade

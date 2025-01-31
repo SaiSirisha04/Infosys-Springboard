@@ -1,0 +1,11 @@
+recommendation_id,customer_id,query,suggested_terms,reason
+1,1,Need pricing details,10% discount,Customer price sensitive
+2,2,Feedback on product,Improved features,Positive feedback noted
+3,3,Customization options,Custom package,Customization inquiry
+4,4,Demo scheduling,Quick demo access,Demo request
+5,5,Premium package interest,Priority support,Premium interest
+6,6,Follow-up request,Feedback follow-up,Awaiting feedback
+7,7,Billing concern,Flexible billing,Billing concern flagged
+8,8,New feature inquiry,New feature rollout,Feature interest noted
+9,9,Switching competitor,Retention offers,Retention risk
+10,10,Loyalty rewards,Upgrade benefits,Interest in upgrading

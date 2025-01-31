@@ -1,0 +1,11 @@
+user_id,name,role,assigned_customers
+1,AI Assistant,AI Assistant,"1,2,3"
+2,Sales Rep 1,Sales Representative,"4,5"
+3,Sales Rep 2,Sales Representative,"6,7"
+4,Manager,Manager,"8,9"
+5,Sales Rep 3,Sales Representative,10
+6,AI Assistant 2,AI Assistant,"1,2"
+7,Sales Rep 4,Sales Representative,"3,4"
+8,Sales Rep 5,Sales Representative,"5,6"
+9,Support,Support Staff,"7,8"
+10,AI Lead,AI Assistant Lead,"9,10"
